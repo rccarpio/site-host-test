@@ -1,0 +1,17 @@
+{
+    "name": "rcarpio/test",
+    "autoload": {
+        "psr-4": {
+            "Rcarpio\\Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rogelio Carpio",
+            "email": "rccarpio_0718@hotmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.9"
+    }
+}
